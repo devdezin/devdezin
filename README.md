@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://devdezin.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfólio-devdezin.com.br-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
-  <a href="https://www.linkedin.com/in/dev-dezin-09966a417/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-devdezin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ricardo-ferreira-09966a417/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-devdezin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:devdezinstack@gmail.com"><img src="https://img.shields.io/badge/E--mail-devdezinstack@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
   <a href="https://wa.me/5516994011180" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-(16)_99401--1180-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
@@ -78,7 +78,7 @@ Mais de **10 projetos** entregues e **5 plataformas próprias** em produção 24
 
 - 🌐 Portfólio: **[devdezin.com.br](https://devdezin.com.br)**
 - 📧 E-mail: **[devdezinstack@gmail.com](mailto:devdezinstack@gmail.com)**
-- 💼 LinkedIn: **[linkedin.com/in/dev-dezin-09966a417](https://www.linkedin.com/in/dev-dezin-09966a417/)**
+- 💼 LinkedIn: **[https://www.linkedin.com/in/ricardo-ferreira-09966a417/](https://www.linkedin.com/in/ricardo-ferreira-09966a417/))**
 - 📱 WhatsApp: **[(16) 99401-1180](https://wa.me/5516994011180)**
 
 ---
