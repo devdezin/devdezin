@@ -17,7 +17,9 @@
 
 Desenvolvo aplicações web do zero até a publicação em servidor. Trabalho com frontend, backend, banco de dados, integrações **PIX**, dashboards administrativos, servidores **Linux** e deploy em **VPS**.
 
-Mais de **10 projetos** entregues e **5 plataformas próprias** em produção 24/7.
+Mais de **10 projetos** entregues e **6 plataformas** em produção 24/7.
+
+📂 **Repositórios:** [projetos-em-producao](https://github.com/devdezin/projetos-em-producao) · [portfolio](https://github.com/devdezin/portfolio) · [vps-deploy-kit](https://github.com/devdezin/vps-deploy-kit)
 
 ---
 
@@ -58,7 +60,20 @@ Mais de **10 projetos** entregues e **5 plataformas próprias** em produção 24
 | **Bingo Dezin** | Bingo online com salas automáticas, cartelas e sorteios | [dezinbingo.com.br](https://dezinbingo.com.br/) |
 | **Elite da Sorte** | Rifas digitais com PIX e painel administrativo | [elitedasorte.com.br](https://elitedasorte.com.br/) |
 | **Aconteceu Ganho** | Sorteios e promoções online com gestão de prêmios | [aconteceuganhou.bet](https://aconteceuganhou.bet/) |
-| **FrancaPlace** | Marketplace local com anúncios e painel admin | [francaplace.com.br](https://francaplace.com.br/) |
+| **FrancaPlace** | Marketplace local de Franca — lojas, categorias e vitrine | [francaplace.com.br](https://francaplace.com.br/) |
+| **DevDezin Portfolio** | Portfólio open source — React, TypeScript, Tailwind, SEO | [devdezin.com.br](https://devdezin.com.br/) · [código](https://github.com/devdezin/portfolio) |
+
+> Lista detalhada: [github.com/devdezin/projetos-em-producao](https://github.com/devdezin/projetos-em-producao)
+
+---
+
+## Repositórios
+
+| Repositório | Descrição |
+|------|-----------|
+| [projetos-em-producao](https://github.com/devdezin/projetos-em-producao) | Showcase dos 6 sistemas live |
+| [portfolio](https://github.com/devdezin/portfolio) | Código fonte deste portfólio |
+| [vps-deploy-kit](https://github.com/devdezin/vps-deploy-kit) | Nginx + deploy VPS para SPA |
 
 ---
 
@@ -78,7 +93,7 @@ Mais de **10 projetos** entregues e **5 plataformas próprias** em produção 24
 
 - 🌐 Portfólio: **[devdezin.com.br](https://devdezin.com.br)**
 - 📧 E-mail: **[devdezinstack@gmail.com](mailto:devdezinstack@gmail.com)**
-- 💼 LinkedIn: **[https://www.linkedin.com/in/ricardo-ferreira-09966a417/](https://www.linkedin.com/in/ricardo-ferreira-09966a417/))**
+- 💼 LinkedIn: **[linkedin.com/in/ricardo-ferreira-09966a417](https://www.linkedin.com/in/ricardo-ferreira-09966a417/)**
 - 📱 WhatsApp: **[(16) 99401-1180](https://wa.me/5516994011180)**
 
 ---
