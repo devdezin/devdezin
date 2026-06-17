@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://devdezin.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfólio-devdezin.com.br-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://devdezin.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-devdezin.com.br-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
   <a href="https://www.linkedin.com/in/dev-dezin-09966a417/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-devdezin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:devdezinstack@gmail.com"><img src="https://img.shields.io/badge/E--mail-devdezinstack@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
